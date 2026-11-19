@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "status": "no-release",
+  "version": null,
+  "filename": null,
+  "sha256": null,
+  "notes": "No production update published. Clients must not download or install."
+}
