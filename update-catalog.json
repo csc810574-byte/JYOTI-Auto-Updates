@@ -5,5 +5,10 @@
   "version": null,
   "filename": null,
   "sha256": null,
-  "notes": "No production update published. Clients must not download or install."
+  "notes": "No installable production update published. Test transport only.",
+  "transport_test": {
+    "version": "0.7-test1",
+    "path": "releases/jyoti-0.7-test1.json",
+    "sha256": "8cbabe76865dab2d56a889913278c4c91e8e613f90d018d06314655a5ac92986"
+  }
 }
