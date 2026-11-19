@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "kind": "transport-test",
+  "version": "0.7-test1",
+  "message": "JYOTI test release for verifying GitHub download and SHA-256 only. This is not an installable application update. No customer data."
+}
